@@ -1,4 +1,7 @@
-# Sales & Profit Performance Dashboard
+# 📊 Sales & Profit Performance Dashboard
+
+An interactive Power BI dashboard designed to analyze business performance across products, segments, and countries, helping identify key revenue drivers and profitability insights.
+
 
 ## 📊 Project Overview
 This project is a Power BI dashboard designed to analyze sales, profit, and performance across products, segments, and countries.
