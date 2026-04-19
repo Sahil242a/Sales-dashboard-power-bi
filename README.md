@@ -16,7 +16,7 @@ This project is a Power BI dashboard designed to analyze sales, profit, and perf
 - Basic DAX
 
 ## 📷 Dashboard Preview
-![Uploading Screenshot 2026-04-19 224226.png…]()
+![Dashboard] "C:\Users\gsahi\OneDrive\Desktop\Sales-Dashboard-PowerBI\Screenshot 2026-04-19 224226.png"
 
 
 ## 📌 Insights
