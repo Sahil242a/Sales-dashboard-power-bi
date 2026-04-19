@@ -15,9 +15,8 @@ This project is a Power BI dashboard designed to analyze sales, profit, and perf
 - Data Visualization
 - Basic DAX
 
-
-## 📷 Dashboard Preview
-Screenshot 2026-04-19 224226.png
+##   Dashboard
+![Dashboard](dashboard.png)
 
 ## 📌 Insights
 - Channel Partners contribute the highest sales and profit
